@@ -37,7 +37,7 @@ You should also have an account on GitHub and have worked through tutorials to c
 
 Only one file -- `resume.html` -- is required for this assignment. You are to commit your résumé as `resume.html` to your `<username>.github.io` repo.
 
-**[Create an issue](https://github.com/#/project-structure/issues) in this repo with *your name* and a link to your *username.github.io* repo by the deadline If you are unsure of how to submit, check the example provided in the Issues section.**
+**[Create an issue](https://github.com/um-cvj-341-spring-2015/project-structure/issues) in this repo with *your name* and a link to your *username.github.io* repo by the deadline If you are unsure of how to submit, check the example provided in the Issues section.**
 
 Do not wait until the last minute to submit your URL.
 
